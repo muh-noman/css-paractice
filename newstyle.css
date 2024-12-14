@@ -1,0 +1,57 @@
+div{
+    background-color: chocolate;
+    height: 100px;
+    width: 200px;
+}
+button{
+    height:50px;
+    /* font-size: 70px; */
+    /* width: 100px; */
+    /* border: 3px; */
+    border-style: dotted;
+    border-color: yellowgreen;
+}
+h1{
+    height: 100px;
+    width: 600px;
+    background-color: cadetblue;
+    text-align: center;
+}
+#name{
+    background-color: cornflowerblue;
+    /* height: 100px; */
+    /* width:  100px; */
+    /* border-radius: 50% */
+    padding-top: 10px;
+    padding-left: 50px;
+}
+#paractice{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50%;
+    text-align: center;
+}
+#traffic-light{
+    background-color: rgb(239, 229, 229);
+    height: 200px;
+    width: 100px;
+}
+#light01{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+#light02{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+#light03{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}

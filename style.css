@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(107, 102, 101);
+}
+
+h1,h2,h3{
+    color: navajowhite;
+    font-size: x-large;
+    font-style: oblique;
+}
+
+.course {
+    color:floralwhite ;
+}
+
+#para {
+    background-color: brown;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+ol>li>P {
+    color: chocolate;
+}
+div li {
+    color: cornflowerblue;
+}
